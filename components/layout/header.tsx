@@ -55,7 +55,7 @@ export function Header({ profile, onMenuClick }: HeaderProps) {
           </Button>
           <Link href="/dashboard" className="flex items-center gap-3">
             <Image
-              src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ghana_Ports_and_Harbours_Authority_logo.png/150px-Ghana_Ports_and_Harbours_Authority_logo.png"
+              src="/gpha-logo.png"
               alt="GPHA Logo"
               width={40}
               height={40}

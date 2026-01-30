@@ -59,7 +59,7 @@ function LoginForm() {
       <CardHeader className="text-center">
         <div className="flex justify-center mb-4">
           <Image
-            src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ghana_Ports_and_Harbours_Authority_logo.png/150px-Ghana_Ports_and_Harbours_Authority_logo.png"
+            src="/gpha-logo.png"
             alt="GPHA Logo"
             width={80}
             height={80}

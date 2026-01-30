@@ -28,7 +28,7 @@ export default async function HomePage() {
         <div className="container mx-auto flex h-16 items-center justify-between px-4">
           <Link href="/" className="flex items-center gap-3">
             <Image
-              src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ghana_Ports_and_Harbours_Authority_logo.png/150px-Ghana_Ports_and_Harbours_Authority_logo.png"
+              src="/gpha-logo.png"
               alt="GPHA Logo"
               width={48}
               height={48}
@@ -228,7 +228,7 @@ export default async function HomePage() {
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="flex items-center gap-3">
               <Image
-                src="https://upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ghana_Ports_and_Harbours_Authority_logo.png/150px-Ghana_Ports_and_Harbours_Authority_logo.png"
+                src="/gpha-logo.png"
                 alt="GPHA Logo"
                 width={40}
                 height={40}
